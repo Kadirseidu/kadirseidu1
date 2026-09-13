@@ -1,4 +1,3 @@
-
 Hi, I'm Kadir Seidu from Ghana
 Linux SysAdmin | UFW & iptables | Ubuntu 26.04.1 LTS
 
